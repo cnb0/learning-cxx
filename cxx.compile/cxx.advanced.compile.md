@@ -24,7 +24,6 @@ CHAPTER 3: Program Execution Stages
 
 CHAPTER 4: The Impact Of Reusing Concept
     
-
         Static Libraries
         Dynamic Libraries
         Static vs. Dynamic Libraries Comparison Points
